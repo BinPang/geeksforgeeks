@@ -1,4 +1,5 @@
 package sum_of_array;
+//https://practice.geeksforgeeks.org/problems/sum-of-array/0
 
 /*package whatever //do not write package name here */
 
