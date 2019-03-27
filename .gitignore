@@ -1,7 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
+.vscode
 out
 geeksforgeeks.iml
 src/Java.java
 # ignore leetcode folder, since some leetcode don't support Go, I must write Java code;
 src/leetcode
+a.out
